@@ -1,5 +1,6 @@
 # IBM HR Attrition Project
 <img width="876" alt="Employee Attrition Dashboard" src="https://github.com/user-attachments/assets/6afb48ea-418f-459e-b0d0-38597175f13d">
+
 ## Executive Summary
 ### Project Goal
 The goal of this analysis was to provide the HR department with recommendations on how to decrease employee attrition.
