@@ -23,13 +23,23 @@ Employee attrition can be decreased by bettering job and environemtnal satisfact
 2. Create a plan with upper management to lessen costs of commuting, or allow for remote work.
 3. Formulate a plan with finance department management pertaining to employee stock options.
 ## Analysis
-### Context
+### Requirements Gathering
+* Stakeholders - HR Division, HR Management
+* Need 1 - Determine why attrition occurs
+* Need 2 - Determine how attrition can be decreased moving forwards
+* Deliverables - Analytical Report (this document), Attrition Dashboard
+### Porject Overview
 This project utilizes employee attrition data, satisfaction scores, and other relevant data in order to determine the reasons why attrition within the IBM workplace occurs. This information is then used to provide recommendations on where stakeholders (HR) should focus in order to decrease the likelihood of attrition in the future.
-### North Star KPIs -- HR Division
+### North Star KPIs -- HR Division, HR Management
 1. Total Employees
 2. Total Attrition
 3. Attrition Rate
 4. Retention Rate
-### 
-
-This project utilizes employee attrition and satisfaction scores in order to determine the reasons why attrition within the IBM workplace occurs. This information is then used to provide recommendations on where HR stakeholders should focus in order to decrease the likelihood of attrition in the future.
+### Key Questions
+_1. What are the warning signs that attrition will occur?_
+_2. What can be done to lower the chance of attrition?_
+### Data Exploration
+_For the purposes of this project, the data used was already cleaned, so there was no need to worry about data clenliness._
+### Satisfaction Scores
+The first thing to look at were the "Job Satisfaction" and "Environmental Satisfaction" attributes. These columns contained scores given by employees within a questionare to determine their satisfaction pertaining to their jobs and the work environment. The visualizations for these scores were segmented via the "Job Role" and "Attrition" dimensions.
+<img width="876" alt="Average Job Satisfaction per Role" src="https://github.com/user-attachments/assets/ad394aab-9be1-4777-824b-a04bd3200e08">
