@@ -28,7 +28,7 @@ Employee attrition can be decreased by bettering job and environemtnal satisfact
 * Need 1 - Determine why attrition occurs
 * Need 2 - Determine how attrition can be decreased moving forwards
 * Deliverables - Analytical Report (this document), Attrition Dashboard
-### Porject Overview
+### Project Overview
 This project utilizes employee attrition data, satisfaction scores, and other relevant data in order to determine the reasons why attrition within the IBM workplace occurs. This information is then used to provide recommendations on where stakeholders (HR) should focus in order to decrease the likelihood of attrition in the future.
 ### North Star KPIs -- HR Division, HR Management
 1. Total Employees
@@ -40,7 +40,12 @@ _1. What are the warning signs that attrition will occur?_
 
 _2. What can be done to lower the chance of attrition?_
 ### Data Exploration
-_For the purposes of this project, the data used was already cleaned, so there was no need to worry about data clenliness._
+### KPI Calculations
+_Calculated using the count of current employees and ex-employees._
+**Total Employees** = 1233
+**Total Attrition** = 237
+**Attrition Rate** = 16.12%
+**Retention Rate** = 81.97%
 #### Satisfaction Scores
 The first thing to look at were the "Job Satisfaction" and "Environmental Satisfaction" attributes. These columns contained scores given by employees within a questionare to determine their satisfaction pertaining to their jobs and the work environment. The visualizations for these scores were segmented via the "Job Role" and "Attrition" dimensions.
 
@@ -67,4 +72,3 @@ Employees that committed attrition also held more jobs on average prior to their
 Finally, we see that, on average, employees that quit had fewer stock options than the employees that did not.
 
 ### Answer -- What are the warning signs that attrition will occur?
-
