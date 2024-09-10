@@ -62,3 +62,9 @@ On average, employees that quit lived farther from home than those that did not.
 
 Employees that committed attrition also held more jobs on average prior to their career at IBM.
 
+<img width="1466" alt="Average Stock Options per Job Role" src="https://github.com/user-attachments/assets/5cfb0c32-595d-4e4b-b5a2-b57de395861a">
+
+Finally, we see that, on average, employees that quit had fewer stock options than the employees that did not.
+
+### Answer -- What are the warning signs that attrition will occur?
+
