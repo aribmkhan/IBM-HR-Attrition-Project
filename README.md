@@ -40,11 +40,15 @@ _1. What are the warning signs that attrition will occur?_
 
 _2. What can be done to lower the chance of attrition?_
 ### Data Exploration
-### KPI Calculations
+#### KPI Calculations
 _Calculated using the count of current employees and ex-employees._
+
 **Total Employees** = 1233
+
 **Total Attrition** = 237
+
 **Attrition Rate** = 16.12%
+
 **Retention Rate** = 81.97%
 #### Satisfaction Scores
 The first thing to look at were the "Job Satisfaction" and "Environmental Satisfaction" attributes. These columns contained scores given by employees within a questionare to determine their satisfaction pertaining to their jobs and the work environment. The visualizations for these scores were segmented via the "Job Role" and "Attrition" dimensions.
