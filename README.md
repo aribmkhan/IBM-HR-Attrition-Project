@@ -42,4 +42,12 @@ _2. What can be done to lower the chance of attrition?_
 _For the purposes of this project, the data used was already cleaned, so there was no need to worry about data clenliness._
 ### Satisfaction Scores
 The first thing to look at were the "Job Satisfaction" and "Environmental Satisfaction" attributes. These columns contained scores given by employees within a questionare to determine their satisfaction pertaining to their jobs and the work environment. The visualizations for these scores were segmented via the "Job Role" and "Attrition" dimensions.
+
 <img width="876" alt="Average Job Satisfaction per Role" src="https://github.com/user-attachments/assets/ad394aab-9be1-4777-824b-a04bd3200e08">
+
+We see that, on average, the job satisfaction scores were lower for the employees that ended up leaving the company.
+
+<img width="876" alt="Average Environmental Satisfaction per Job Role" src="https://github.com/user-attachments/assets/d0b1f501-fdf2-4d76-a7f3-4a797970453f">
+
+We also see that, on average, the environmental satisfaction scores were lower for individuals that ended up leaving the company.
+### Further Disparities Between Current and Ex-Employees
