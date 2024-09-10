@@ -37,7 +37,7 @@ This project utilizes employee attrition data, satisfaction scores, and other re
 _1. What are the warning signs that attrition will occur?_
 
 _2. What can be done to lower the chance of attrition?_
-### Data Exploration
+## Data Exploration
 #### KPI Calculations
 _Calculated using the count of current employees and ex-employees._
 
