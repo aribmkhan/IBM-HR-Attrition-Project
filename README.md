@@ -51,7 +51,7 @@ _Calculated using the count of current employees and ex-employees._
 
 **Retention Rate** = 81.97%
 #### Satisfaction Scores
-The first thing to look at were the "Job Satisfaction" and "Environmental Satisfaction" attributes. These columns contained scores given by employees within a questionare to determine their satisfaction pertaining to their jobs and the work environment. The visualizations for these scores were segmented via the "Job Role" and "Attrition" dimensions.
+The first attributes to visualize were "Job Satisfaction" and "Environmental Satisfaction, segmented by the "Attrition" Dimension. This would allow us to see if there was a difference in satisfaction scores between current nd ex-employees.
 
 <img width="876" alt="Average Job Satisfaction per Role" src="https://github.com/user-attachments/assets/ad394aab-9be1-4777-824b-a04bd3200e08">
 
