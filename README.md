@@ -1,6 +1,4 @@
 # IBM HR Attrition Project
-<img width="876" alt="Employee Attrition Dashboard" src="https://github.com/user-attachments/assets/6afb48ea-418f-459e-b0d0-38597175f13d">
-
 ## Executive Summary
 ### Project Goal
 The goal of this analysis was to provide the HR department with recommendations on how to decrease employee attrition.
@@ -51,28 +49,39 @@ _Calculated using the count of current employees and ex-employees._
 
 **Retention Rate** = 81.97%
 #### Satisfaction Scores
-The first attributes to visualize were "Job Satisfaction" and "Environmental Satisfaction, segmented by the "Attrition" Dimension. This would allow us to see if there was a difference in satisfaction scores between current nd ex-employees.
+The first attributes to visualize were "Job Satisfaction" and "Environmental Satisfaction, segmented by the "Attrition" Dimension. This would allow us to see if there was a difference in satisfaction scores between current and ex-employees.
 
-<img width="876" alt="Average Job Satisfaction per Role" src="https://github.com/user-attachments/assets/ad394aab-9be1-4777-824b-a04bd3200e08">
+**Average Job Satisfaction per Role**
 
-We see that, on average, the job satisfaction scores were lower for the employees that ended up leaving the company.
+On average, the job satisfaction scores were lower for the employees that ended up leaving the company.
 
-<img width="876" alt="Average Environmental Satisfaction per Job Role" src="https://github.com/user-attachments/assets/d0b1f501-fdf2-4d76-a7f3-4a797970453f">
+<img width="1400" alt="Average Job Satisfaction per Role" src="https://github.com/user-attachments/assets/b92a27b6-b7e9-46e0-8c77-4d72ec4a899f">
 
-We also see that, on average, the environmental satisfaction scores were lower for individuals that ended up leaving the company, with the exception of the Research Director role.
+**Average Environmental Satisfaction per Role**
+
+On average, the environmental satisfaction scores were lower for individuals that ended up leaving the company, with the exception of the Research Director role.
+
+<img width="1400" alt="Average Environmental Satisfaction per Job Role" src="https://github.com/user-attachments/assets/1a85a7ac-278b-4e05-b7a9-99fec2267cc4">
+
 #### Further Disparities Between Current and Ex-Employees
 The rest of the visualizations were conducted by keeping Rob Role as the independent variable and implementing different dependent variables. Each visualization was segmented via the Attrition dimension so we could see where the disparities lie between current and ex-employees.
 
-<img width="876" alt="Average Distance from Home per Job Role" src="https://github.com/user-attachments/assets/8e5815c7-ee75-4543-b799-2f9a307e1ab6">
+**Average Distance from Home per Job Role**
 
 On average, employees that quit lived farther from home than those that did not.
 
-<img width="1465" alt="Jobs Held History" src="https://github.com/user-attachments/assets/7f513973-8179-4946-a112-9734c7cb29ea">
+<img width="1400" alt="Average Distance from Home per Job Role" src="https://github.com/user-attachments/assets/b241e642-753a-4d71-b0c3-0da887616bf5">
+
+**Jobs Held History**
 
 Employees that committed attrition also held more jobs on average prior to their career at IBM.
 
-<img width="1466" alt="Average Stock Options per Job Role" src="https://github.com/user-attachments/assets/5cfb0c32-595d-4e4b-b5a2-b57de395861a">
+<img width="1400" alt="Jobs Held History" src="https://github.com/user-attachments/assets/7f513973-8179-4946-a112-9734c7cb29ea">
 
-Finally, we see that, on average, employees that quit had fewer stock options than the employees that did not.
+**Average Stock Options per Job Role**
+
+On average, employees that quit had fewer stock options than the employees that did not.
+
+<img width="1400" alt="Average Stock Options per Job Role" src="https://github.com/user-attachments/assets/5cfb0c32-595d-4e4b-b5a2-b57de395861a">
 
 ### Answer -- What are the warning signs that attrition will occur?
