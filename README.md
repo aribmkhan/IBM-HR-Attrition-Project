@@ -50,5 +50,15 @@ We see that, on average, the job satisfaction scores were lower for the employee
 
 <img width="876" alt="Average Environmental Satisfaction per Job Role" src="https://github.com/user-attachments/assets/d0b1f501-fdf2-4d76-a7f3-4a797970453f">
 
-We also see that, on average, the environmental satisfaction scores were lower for individuals that ended up leaving the company.
+We also see that, on average, the environmental satisfaction scores were lower for individuals that ended up leaving the company, with the exception of the Research Director role.
 #### Further Disparities Between Current and Ex-Employees
+The rest of the visualizations were conducted by keeping Rob Role as the independent variable and implementing different dependent variables. Each visualization was segmented via the Attrition dimension so we could see where the disparities lie between current and ex-employees.
+
+<img width="876" alt="Average Distance from Home per Job Role" src="https://github.com/user-attachments/assets/8e5815c7-ee75-4543-b799-2f9a307e1ab6">
+
+On average, employees that quit lived farther from home than those that did not.
+
+<img width="1465" alt="Jobs Held History" src="https://github.com/user-attachments/assets/7f513973-8179-4946-a112-9734c7cb29ea">
+
+Employees that committed attrition also held more jobs on average prior to their career at IBM.
+
