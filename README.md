@@ -38,7 +38,7 @@ _1. What are the warning signs that attrition will occur?_
 
 _2. What can be done to lower the chance of attrition?_
 ## Data Exploration
-#### KPI Calculations
+### KPI Calculations
 _Calculated using the count of current employees and ex-employees._
 
 **Total Employees** = 1233
@@ -48,37 +48,37 @@ _Calculated using the count of current employees and ex-employees._
 **Attrition Rate** = 16.12%
 
 **Retention Rate** = 81.97%
-#### Satisfaction Scores
+### Satisfaction Scores
 The first attributes to visualize were "Job Satisfaction" and "Environmental Satisfaction, segmented by the "Attrition" Dimension. This would allow us to see if there was a difference in satisfaction scores between current and ex-employees.
 
-**Average Job Satisfaction per Role**
+#### Average Job Satisfaction per Role
 
 On average, the job satisfaction scores were lower for the employees that ended up leaving the company.
 
 <img width="1400" alt="Average Job Satisfaction per Role" src="https://github.com/user-attachments/assets/b92a27b6-b7e9-46e0-8c77-4d72ec4a899f">
 
-**Average Environmental Satisfaction per Role**
+#### Average Environmental Satisfaction per Role
 
 On average, the environmental satisfaction scores were lower for individuals that ended up leaving the company, with the exception of the Research Director role.
 
 <img width="1400" alt="Average Environmental Satisfaction per Job Role" src="https://github.com/user-attachments/assets/1a85a7ac-278b-4e05-b7a9-99fec2267cc4">
 
-#### Further Disparities Between Current and Ex-Employees
+### Further Disparities Between Current and Ex-Employees
 The rest of the visualizations were conducted by keeping Rob Role as the independent variable and implementing different dependent variables. Each visualization was segmented via the Attrition dimension so we could see where the disparities lie between current and ex-employees.
 
-**Average Distance from Home per Job Role**
+#### Average Distance from Home per Job Role
 
 On average, employees that quit lived farther from home than those that did not.
 
 <img width="1400" alt="Average Distance from Home per Job Role" src="https://github.com/user-attachments/assets/b241e642-753a-4d71-b0c3-0da887616bf5">
 
-**Jobs Held History**
+#### Jobs Held History
 
 Employees that committed attrition also held more jobs on average prior to their career at IBM.
 
 <img width="1400" alt="Jobs Held History" src="https://github.com/user-attachments/assets/7f513973-8179-4946-a112-9734c7cb29ea">
 
-**Average Stock Options per Job Role**
+#### Average Stock Options per Job Role
 
 On average, employees that quit had fewer stock options than the employees that did not.
 
