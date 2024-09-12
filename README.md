@@ -85,3 +85,17 @@ On average, employees that quit had fewer stock options than the employees that 
 <img width="1400" alt="Average Stock Options per Job Role" src="https://github.com/user-attachments/assets/5cfb0c32-595d-4e4b-b5a2-b57de395861a">
 
 ### Answer -- What are the warning signs that attrition will occur?
+1. Reported job satisfaction and work environment satisfaction scores are low.
+2. Employee lives far from place of work.
+3. Employee held a high number of jobs prior to their current job at IBM.
+4. Lack of stock options.
+
+### Answer -- What can be done to lower the chance of attrition?
+1. Survey employees to discover what it would take to increase their job satisfaction.
+2. Survey employees to determine what changes can be made to the work environemnt in order to increase their environmental satisfaction.
+3. Communicate with upper-manageemnt in order to formulate a travel plan that reduces the commute costs, or allow for remote work.
+4. Provide stock options to more employees.
+
+## Attrition Dashboard
+The metrics included in the dashboard were are meant to report the North Star KPIs for HR management when considering attrition. The visualizations are meant to show the distribution of attrition by job level. They are also meant to show metrics associated with attrition, segmented by current and ex-employees, so taht management can look at where they need to focus their attention in order to mitigate attrition moving forward.
+<img width="1400" alt="Employee Attrition Dashboard" src="https://github.com/user-attachments/assets/6151dbfb-5d75-46cf-a73a-fd12b5976cd3">
