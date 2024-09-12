@@ -99,4 +99,6 @@ On average, employees that quit had fewer stock options than the employees that 
 ## Attrition Dashboard
 The metrics included in the dashboard are meant to report the North Star KPIs for HR management when considering attrition. The visualizations are meant to show the distribution of attrition by job level. They are also meant to show metrics associated with attrition, segmented by current and ex-employees, so that management can look at where they need to focus their attention in order to mitigate attrition moving forward (such as decreased satisfaction scores, distance from home, etc.).
 
+_To explore the dashboard in more detail, see Employee Attrition Visualizations.pbix file within directory._
+
 <img width="1400" alt="Employee Attrition Dashboard" src="https://github.com/user-attachments/assets/6151dbfb-5d75-46cf-a73a-fd12b5976cd3">
