@@ -22,17 +22,7 @@ Ex-employees...
 4. Lived further from the workplace.
 5. Had fewer stock options.
 6. Worked a greater number of jobs prior to their position within IBM.
-### Reccomendations
-1. Survey employees to discover what it would take to increase their job satisfaction.
-2. Survey employees to determine what changes can be made to the work environemnt in order to increase their environmental satisfaction.
-3. Communicate with upper-manageemnt in order to formulate a travel plan that reduces the commute costs, or allow for remote work.
-4. Provide stock options to more employees.
-### Conclusion
-Employee attrition can be decreased by bettering job and environemtnal satisfaction scores. Employees should also be provided with the means to easily commute to the workplace, or be allowed to work remotely from home. Finally, stock options should be offered to more employees to incentivize company loyalty.
-### Call to Action
-1. Create surveys to assess what would make employees more satisfied with their jobs and the workplace environment.
-2. Create a plan with upper management to lessen costs of commuting, or allow for remote work.
-3. Formulate a plan with finance department management pertaining to employee stock options.
+Below is the Attrition Dashboard created for HR management. The entire dashboard can be downloaded <a href="https://github.com/aribmkhan/IBM-HR-Attrition-Project/blob/main/Employee%20Attrition%20Dashboard.pbix" target="_blank">here</a>.
 ## Analysis
 ### Requirements Gathering
 * Stakeholders - HR Division, HR Management
@@ -108,10 +98,14 @@ On average, employees that quit had fewer stock options than the employees that 
 2. Survey employees to determine what changes can be made to the work environemnt in order to increase their environmental satisfaction.
 3. Communicate with upper-manageemnt in order to formulate a travel plan that reduces the commute costs, or allow for remote work.
 4. Provide stock options to more employees.
-
-## Attrition Dashboard
-The metrics included in the dashboard are meant to report the North Star KPIs for HR management when considering attrition. The visualizations are meant to show the distribution of attrition by job level. They are also meant to show metrics associated with attrition, segmented by current and ex-employees, so that management can look at where they need to focus their attention in order to mitigate attrition moving forward (such as decreased satisfaction scores, distance from home, etc.).
-
-_To explore the dashboard in more detail, see Employee Attrition Visualizations.pbix file within directory._
-
-<img width="1400" alt="Employee Attrition Dashboard" src="https://github.com/user-attachments/assets/6151dbfb-5d75-46cf-a73a-fd12b5976cd3">
+### Recommendations
+1. Survey employees to discover what it would take to increase their job satisfaction.
+2. Survey employees to determine what changes can be made to the work environemnt in order to increase their environmental satisfaction.
+3. Communicate with upper-manageemnt in order to formulate a travel plan that reduces the commute costs, or allow for remote work.
+4. Provide stock options to more employees.
+### Conclusion
+Employee attrition can be decreased by bettering job and environemtnal satisfaction scores. Employees should also be provided with the means to easily commute to the workplace, or be allowed to work remotely from home. Finally, stock options should be offered to more employees to incentivize company loyalty.
+### Call to Action
+1. Create surveys to assess what would make employees more satisfied with their jobs and the workplace environment.
+2. Create a plan with upper management to lessen costs of commuting, or allow for remote work.
+3. Formulate a plan with finance department management pertaining to employee stock options.
