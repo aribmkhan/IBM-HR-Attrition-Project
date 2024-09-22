@@ -12,7 +12,7 @@ Insights and recommentdations are provided in the following key areas:
 3. **Distance from Workplace:** How the distance between the workplace and home impacts attrition.
 4. **Job History:** Considering the likelihood of attrition considering the number of jobs held prior to beginning work at IBM.
 
-And interactive Power BI dashboard can be downloaded  <a href="https://github.com/aribmkhan/IBM-HR-Attrition-Project/blob/main/Employee%20Attrition%20Dashboard.pbix">here</a>.
+And interactive Power BI dashboard can be downloaded  <a href="https://github.com/aribmkhan/IBM-HR-Attrition-Project/blob/main/Employee%20Attrition%20Dashboard.pbix", target="_blank">here</a>.
 
 ## Executive Summary
 ### Project Goal
