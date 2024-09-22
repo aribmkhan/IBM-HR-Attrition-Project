@@ -1,4 +1,12 @@
 # IBM HR Attrition Project
+## Project Background
+IMB, founded in 1911, is known for its work in computer hardware, software, and IT services. Due to its standing as the largest industrial research organization in the world wth over 282,200 employees (as of December 2023), understanding the reason behind attrition, and how to mitigate it, is pivotal in ensuring employee satisfaction and productivity, and mitigating the loss of invested resources (i.e. training, expertise, time).
+This project analyzes IBM employee data and uncovers critial insights that will result in decreased attrition in the future.
+Insights and recommentdations are provided in the following key areas:
+1. **Job Satisfaction:** Satisfaction levels pertaining to the individual's job and the work environment.
+2. **Stock Options:** The number of stock options available to full-time employees.
+3. **Distance from Workplace:** How the distance between the workplace and home impacts attrition.
+4. **Job History:** Considering the likelihood of attrition considering the number of jobs held prior to beginning work at IBM.
 ## Executive Summary
 ### Project Goal
 The goal of this analysis was to provide the HR department with recommendations on how to decrease employee attrition.
