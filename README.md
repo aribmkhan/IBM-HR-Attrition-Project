@@ -11,6 +11,9 @@ Insights and recommentdations are provided in the following key areas:
 2. **Stock Options:** The number of stock options available to full-time employees.
 3. **Distance from Workplace:** How the distance between the workplace and home impacts attrition.
 4. **Job History:** Considering the likelihood of attrition considering the number of jobs held prior to beginning work at IBM.
+
+And interactive Power BI dashboard can be downloaded  <a href="[URL](https://github.com/aribmkhan/IBM-HR-Attrition-Project/blob/main/Employee%20Attrition%20Dashboard.pbix)">here</a>.
+
 ## Executive Summary
 ### Project Goal
 The goal of this analysis was to provide the HR department with recommendations on how to decrease employee attrition.
