@@ -25,6 +25,7 @@ Ex-employees...
 Below is the Attrition Dashboard created for HR management.
 
 The entire dashboard can be downloaded <a href="https://github.com/aribmkhan/IBM-HR-Attrition-Project/blob/main/Employee%20Attrition%20Dashboard.pbix" target="_blank">here</a>.
+
 <img width="1400" alt="Attrition Dashboard" src="https://github.com/user-attachments/assets/dca338f2-f553-4d5a-9baa-c15a58a42571">
 
 ## Analysis
