@@ -15,8 +15,8 @@ Insights and recommentdations are provided in the following key areas:
 And interactive Power BI dashboard can be downloaded  <a href="https://github.com/aribmkhan/IBM-HR-Attrition-Project/blob/main/Employee%20Attrition%20Dashboard.pbix" target="_blank">here</a>.
 
 ## Executive Summary
-### Project Goal
-The goal of this analysis was to provide the HR department with recommendations on how to decrease employee attrition.
+### Overview of Findings
+*placeholder
 ### Key Findings
 Ex-employees...
 1. Reported lower job satisfaction than current employees.
