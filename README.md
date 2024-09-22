@@ -1,6 +1,7 @@
 # IBM HR Attrition Project
 ## Project Background
-IMB, founded in 1911, is known for its work in computer hardware, software, and IT services. Due to its standing as the largest industrial research organization in the world wth over 282,200 employees (as of December 2023), understanding the reason behind attrition, and how to mitigate it, is pivotal in ensuring employee satisfaction and productivity, and mitigating the loss of invested resources (i.e. training, expertise, time).
+IMB, founded in 1911, is known for its work in computer hardware, software, and IT services.
+Due to its standing as the largest industrial research organization in the world with over 282,200 employees (as of December 2023), attrition is an ever-present problem that, if left unmanaged, has serious consequences pertaining to workplace and employee health, company finances, and company work-efficieny.
 This project analyzes IBM employee data and uncovers critial insights that will result in decreased attrition in the future.
 Insights and recommentdations are provided in the following key areas:
 1. **Job Satisfaction:** Satisfaction levels pertaining to the individual's job and the work environment.
